@@ -25,7 +25,9 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  background-color: #4aaec5;
   color: #000000;
   border-top: 1px dashed #000000;
 }
